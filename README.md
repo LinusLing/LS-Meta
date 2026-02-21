@@ -1,6 +1,6 @@
 # LS-Meta
 
-This is the PyTorch implementation for **LS-Meta** proposed in the paper **LS-Meta: Grounding Lightweight Meta-Embeddings in Structural Behavioral Roles via LLM Supervision**.
+This is the PyTorch implementation for **LS-Meta** proposed in the paper **LS-Meta: An LLM-Driven Expert System for Grounding Lightweight Meta-Embeddings in On-Device Recommendation**.
 
 > The paper is currently under review.
 
